@@ -121,11 +121,12 @@ In fraud detection, **Recall is the most critical metric** because missing a fra
 
 Representative results:  
 
-- **InfoNCE – Autoencoder (Best ROC-AUC)**  
-![Confusion Matrix - InfoNCE Autoencoder](screenshots/infonce_autoencoder.png)  
+- **InfoNCE - Deep SVDD**
+![Confusion Matrix - InfoNCE DeepSVDD](screenshots/infonce_deepsvdd.png)
 
-- **Barlow – Deep SVDD (Lower ROC-AUC)**  
-![Confusion Matrix - Barlow DeepSVDD](screenshots/barlow_deepsvdd.png)  
+- **InfoNCE - Autoencoder**  
+![Confusion Matrix - InfoNCE Autoencoder](screenshots/infonce_autoencoder.png)
+ 
 
 👉 *Full confusion matrices for all experiments are available in the `screenshots/` folder.*  
 
