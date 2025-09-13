@@ -160,8 +160,7 @@ Streamlit_App_Credit_Fraud.ipynb → launch interactive dashboard
 
 ## 📂 Repository Structure
 
-- **SCRAF_Credit_Fraud.ipynb** -              # SCARF pretraining + anomaly detection
-- **Streamlit_App_Credit_Fraud.ipynb** -       # Streamlit dashboard
+- **ipynb_files/** -              # SCARF pretraining + anomaly detection and Streamlit dashboard
 - **dataset/** -                               # Credit card fraud dataset (or link)
 - **screenshots/** -                           # Confusion matrices, plots, app UI
 - **README.md** -                              # Documentation
