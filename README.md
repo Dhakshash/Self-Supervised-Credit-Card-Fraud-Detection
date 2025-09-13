@@ -189,3 +189,8 @@ Validate on larger, real-world datasets.
 Explore additional self-supervised objectives such as Triplet Loss for embedding training.
 
 Deploy via Streamlit Cloud or Docker with MLflow monitoring.
+
+---
+
+## 🤝 Connect
+For questions, collaborations, or opportunities related to AI in finance and risk modeling, feel free to connect through dhakshashganesan@gmail.com or GitHub.
